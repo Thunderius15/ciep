@@ -20,6 +20,50 @@
                 app:showAsAction="never" />
         </menu>
     </item>
+    <item android:id="@+id/menuguia3"
+        android:title="@string/menuguia3"
+        android:orderInCategory="100"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/regresa_guias3"
+                android:title="@string/salir"
+                android:orderInCategory="100"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+    <item android:id="@+id/menuguia5"
+        android:title="@string/menuguia5"
+        android:orderInCategory="100"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/regresa_guias5"
+                android:title="@string/salir"
+                android:orderInCategory="100"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+    <item android:id="@+id/menuguia6"
+        android:title="@string/menuguia6"
+        android:orderInCategory="100"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/regresa_guias6"
+                android:title="@string/salir"
+                android:orderInCategory="100"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+    <item android:id="@+id/menuguia7"
+        android:title="@string/menuguia7"
+        android:orderInCategory="100"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/regresa_guias7"
+                android:title="@string/salir"
+                android:orderInCategory="100"
+                app:showAsAction="never" />
+        </menu>
+    </item>
     <item android:id="@+id/menuguia8"
         android:title="@string/menuguia8"
         android:orderInCategory="100"
